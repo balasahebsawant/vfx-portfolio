@@ -103,7 +103,7 @@ const projects = [
     role: "Senior Animator",
     description:
       "Contributed character animation for mythological storytelling with emotionally driven performances.",
-    poster: "/assets/projects/arjun.jpg",
+    poster: "/assets/projects/Arjun.jpg",
     studioLogo: "/assets/logos/tata.png",
     trailer: "https://www.youtube.com/watch?v=6K-R-Q0YRtQ&pp=ygUgYXJqdW4gdGhlIHdhcnJpb3IgcHJpbmNlIHRyYWlsZXI%3D",
   },
